@@ -13,3 +13,7 @@ def math_list_primes(start, end):
 
 def math_random_square():
     print(random.randint(1, 100) ** 2)
+
+def math_count_to_69():
+    for i in range(1, 70):
+        print(i)
